@@ -1,0 +1,12 @@
+{"name":"YasirÖZCAN Extension",
+"version":"1.0.0",
+"manifest_version": 3,
+"icons":{
+    "1":"logo2.png"
+},
+"action":{
+    "default_icon":"logo2.png",
+    "default_popup":"popup.html"
+}
+
+}
